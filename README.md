@@ -1,7 +1,8 @@
-# HHK3template
-A modern template for HHK3!
+# ClassPad System UI for Hollyhock 3
 
-Checkout the other branches for more variants.
+## About
+This is an early test for accessing the Peg components in Hollyhock 3.  
+### All addresses are currently hardcoded and will **only work on OS 7002!**
 
 ## How to Setup
 1. Clone to project
