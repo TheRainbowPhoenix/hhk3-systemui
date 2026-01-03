@@ -6,6 +6,7 @@
 #include "pdecwin.hpp"
 #include "pdialog.hpp"
 #include "pfonts.hpp"
+#include "plist.hpp"
 #include "pmesgwin.hpp"
 #include "pmessage.hpp"
 #include "pscreen.hpp"
@@ -13,4 +14,3 @@
 #include "pthing.hpp"
 #include "ptitle.hpp"
 #include "pwindow.hpp"
-#include "plist.hpp"

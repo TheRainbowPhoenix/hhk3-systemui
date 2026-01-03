@@ -43,15 +43,16 @@ DEFINE_OS_FUNC CPDialog_ctor_2 0x800d57f6
 DEFINE_OS_FUNC PegDialog_ctor 0x800fd828
 
 DEFINE_OS_FUNC PegComboBoxItemPrompt_ctor_2 0x800fab38
-
+#DEFINE_OS_FUNC GUIDropDownMenuItem_ctor 0x800fab38
 
 DEFINE_OS_FUNC PegList_ctor 0x801bd4e8
 DEFINE_OS_FUNC PegVertList_ctor 0x801be394
+DEFINE_OS_FUNC PegHorzList_ctor 0x801be4c0
 
 DEFINE_OS_FUNC PegList_SelectNext 0x801bde02
 DEFINE_OS_FUNC PegList_SelectPrevious 0x00000000
 DEFINE_OS_FUNC PegList_PageDown 0x801bdea6
 DEFINE_OS_FUNC PegList_PageUp 0x801bdfb6
 
-DEFINE_OS_FUNC PegVertList_PositionChildren 0x00000000
-DEFINE_OS_FUNC PegHorzList_PositionChildren 0x00000000
+DEFINE_OS_FUNC PegVertList_PositionChildren 0x801be3dc
+DEFINE_OS_FUNC PegHorzList_PositionChildren 0x801be50a
